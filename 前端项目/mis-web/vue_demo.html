@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		
+		
+	</head>
+	<body>
+		<div id="app">
+			<div>
+				<input v-show="name" type="text" v-model="name"/>
+				<span>你的名字是{{name}}</span>
+			</div>
+			<div>
+				<input v-show="age" type="text" v-model="age" />
+				<span>你的年龄是{{age}}</span>
+			</div>
+			<div>
+				<input type="text" v-model="gender"/>
+				<span v-show="gender">你的性别是{{gender}}</span>
+			</div>
+		</div>
+
+		
+		<script src="lib/js/vue-2.6.10.js"></script>
+		<script src="lib/JavaScripts/main.js"></script>
+	</body>
+</html>

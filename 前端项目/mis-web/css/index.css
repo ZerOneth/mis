@@ -1,0 +1,214 @@
+/* 
+ * 顶部项
+ */
+.top-item{
+	/* 背景色 */
+	background-color: #28A4C9;
+	/* 边框颜色 */
+	border: 1px solid #D6E9C6;
+	/* 设置border圆角 */
+	border-radius: 5px;
+}
+.top-info{
+	
+}
+
+
+
+.ydhl{
+	text-align: center;
+	font-size: 25px;
+	color: #F5F5F5;
+	display: block;
+	margin-top: 30px;
+}
+.top-info-li{
+	display:inline-block;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	float:left;
+}
+.top-info-li a{
+	color: #F5F5F5;
+	font-size: 15px;
+	margin-left: 5px;
+}
+
+
+/* 搜索框左侧的选择框 */
+.info-checkbox{
+	/* border: 1px solid red; */
+	/* 设置div居中 */
+	/* margin: 0 auto; */
+	text-align: center;
+	margin: 15px auto;
+}
+
+/* 搜索框 */
+.info-search{
+	 /* border: 1px solid red; */
+	
+}
+
+
+
+
+
+/* 搜索框右侧的广告语 */
+.info-ad{
+	color: #0099CC;
+	font-size: 16px;
+	/* border: 1px solid red; */
+	/* 文本左右居中 */
+	text-align: center;
+	margin: 15px auto;
+}
+
+/* 关键词div */
+.keyword-div{
+	/* border: 1px solid red; */
+	/* 文本左右居中 */
+	text-align: center;
+}
+
+
+/**
+ * 中部项
+ */
+.centre-item{
+	/* 宽度 */
+	height: 220px;
+	/* 边框颜色 */
+	/* border: 1px solid #D6E9C6; */
+	/* 设置border圆角 */
+	border-radius: 5px;
+	/* 设置上边距 */
+	margin-top: 10px;
+}
+.centre-item div{
+	margin-top: 2px;
+	/* 边框颜色 */
+	/* //border: 1px solid #D6E9C6; */
+	/* 设置border圆角 */
+	border-radius: 5px;
+}
+
+/* 注册会员框 在轮播左侧 */
+.zc-box{
+	/* 边框颜色 */
+	border: 1px solid #D6E9C6;
+}
+
+.zc-box{
+	/* 字体颜色 */
+	color: #0099CC;
+	
+	font-size: 14px;
+}
+
+.zc-box div{
+	height: 30px;
+}
+
+.zc-mini-box{
+	border: 1px solid #D6E9C6;
+}
+
+/* 轮播图 */
+.lb-box{
+	/* 边框颜色 */
+	border: 1px solid #D6E9C6;
+}
+
+/* 首页搜索框 */
+
+
+.box-div{
+	/* height: 40px; */
+	/* border: 1px solid #D6E9C6; */
+}
+
+/* 时间显示 */
+#time{
+     text-align:center;
+     background-color:#337AB7;
+	 font-size: 24px;
+	 color: #F5F5F5;
+     display: table-cell;
+     vertical-align:middle
+}
+
+/* 社交内容 */
+.social-content{
+	/* 设置border圆角 */
+	border-radius: 5px;
+	/* border: 1px solid #D6E9C6; */
+	height: 400px;
+}
+
+/* 会员视频 */
+.social-content-video{
+	border: 1px solid #D6E9C6;
+}
+
+/* 社交圈子 */
+.social-content-circle{
+	border: 1px solid #D6E9C6;
+}
+
+/* 主页右侧热点资讯 */
+.hot-news{
+	/* 字体颜色 */
+	color: #0099CC;
+	/* 边框颜色 */
+	border: 1px solid #D6E9C6;
+	/* 设置border圆角 */
+	border-radius: 5px;
+}
+
+/* 主页右侧的会员活动 */
+.member-activity{
+	/* 字体颜色 */
+	color: #0099CC;
+	
+	/* 边框颜色 */
+	border: 1px solid #D6E9C6;
+	
+	/* 设置border圆角 */
+	border-radius: 5px;
+}
+
+/* 主页右侧的休闲游戏 */
+.casual-games{
+	/* 边框颜色 */
+	border: 1px solid #D6E9C6;
+	/* 设置border圆角 */
+	border-radius: 5px;
+}
+
+.zb-box-1,
+.zb-box-2,
+.zb-box-3,
+.zb-box-4{
+	/* 边框颜色 */
+	border: 1px solid #D6E9C6;
+	/* 设置border圆角 */
+	border-radius: 5px;
+}
+
+
+/* 合作媒体 */
+.media-partners{
+	/* 边框颜色 */
+	border: 1px solid #D6E9C6;
+	/* 设置border圆角 */
+	border-radius: 5px;
+}
+
+/* 底部广告图 */
+.div-ad{
+	height: 95px;
+	width: 100%;
+	/* margin-left: -15px; */
+	
+}
