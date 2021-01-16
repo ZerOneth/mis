@@ -55,6 +55,9 @@
 ![动物园与管理员2](../static/images/003.png)
 
 # 什么是NoSQL
-- Not Only SQL 不b
+- Not Only SQL 不仅仅是数据库
+- 传统项目使用存数据库
+- nosql为互联网和大数据而生
+
 redis是noSQL
 ## 
